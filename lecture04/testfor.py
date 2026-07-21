@@ -1,0 +1,7 @@
+print('I will disaplay the number 1 through 5.')
+for num in [1,2,3,4,5]:
+    print(num)
+
+fruits = ["apple","banana","cherry"]
+for fruit in fruits:
+    print(fruit)
